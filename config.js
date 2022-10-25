@@ -50,12 +50,12 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
 global.sig = 'http://instagram.com/Dmssrdn' // ig
-global.sgh = '-' // github
+global.sgh = 'http://github.com' // github
 global.sgc = 'https://chat.whatsapp.com/GTRZHmbREfhEdVo7kPK8FR' // group whatsapp
-global.sdc = '-'//discord
-global.snh = '-' // my youtube channel
-global.sfb = '-' // facebook
-global.syt = '-' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
+global.sdc = 'http://discord.com'//discord
+global.snh = 'http://youtube.com// my youtube channel
+global.sfb = 'http://facebook.com' // facebook
+global.syt = 'http://youtube.com' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
 global.pdana = '081214557752' //dana
