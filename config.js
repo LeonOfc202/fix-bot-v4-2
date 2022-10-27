@@ -49,29 +49,29 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'http://instagram.com/Dmssrdn' // ig
-global.sgh = 'http://github.com' // github
-global.sgc = 'https://chat.whatsapp.com/GTRZHmbREfhEdVo7kPK8FR' // group whatsapp
+global.sig = 'http://instagram.com/leon_ofc202' // ig
+global.sgh = 'http://github.com/LeonOfc202' // github
+global.sgc = 'https://chat.whatsapp.com/J4gNWQAtkEP3aOBCQInROH' // group whatsapp
 global.sdc = 'http://discord.com'//discord
 global.snh = 'http://youtube.com// my youtube channel
 global.sfb = 'http://facebook.com' // facebook
 global.syt = 'http://youtube.com' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '081214557752' //dana
-global.povo = '-' //ovo
-global.pgopay = '-' //gopay
+global.pdana = '087752078797' //dana
+global.povo = '087752078797' //ovo
+global.pgopay = '087760550924' //gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '081214557752' //telkomsel
-global.ppulsa2 = '083848565087' // kalau ada kartu lain isi aja
+global.ppulsa = '087752078797' //telkomsel
+global.ppulsa2 = '087760550924' // kalau ada kartu lain isi aja
 global.psaweria = '-'
 
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283848565087'
-global.nomorown = '6281214557752'
-global.namebot = 'Kenzo-Botz'
-global.nameown = 'Adam'
+global.nomorbot = '6287760550924'
+global.nomorown = '6287760550924'
+global.namebot = 'Nana-Botz'
+global.nameown = 'Leon'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = '-' // nama github lu
@@ -85,7 +85,7 @@ global . lolkey  =  'e54205a4ca2caa368cc067bb'  // PUNYA WAHID 8e66d0934cf741bfd
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281214557752', 'Adam', true],
+  ['6287760550924', 'Leon', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Kenzo-Botz 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘KENZO-BOTZ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Kenzo-Botz '
+global.wm = '                「 Nana-Botz 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘NANA-BOTZ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ NANA-Botz '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By Adam`
+global.titlebot = `⫹⫺ WhatsApp Bot | By leon`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 Kenzo-Botz 」'
+global.author = '                「 Leon-Botz 」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -636,8 +636,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Kenzo-Botz'
-global.stickauth = `By ©Adam`
+global.stickpack = 'Nana-Botz'
+global.stickauth = `By ©Leon`
 
 global.multiplier = 38 // The higher, The harder levelup
 
