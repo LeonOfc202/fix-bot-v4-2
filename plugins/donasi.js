@@ -6,7 +6,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 let str = `${global.wm}
 
 ┌─「 Donasi • Pulsa 」
-│ • *Telkomsel:* [${global.ppulsa}]
+│ • *XL:* [${global.ppulsa}]
 ❏────
 
 ┌─「 Donasi • Non Pulsa 」
@@ -21,7 +21,7 @@ conn.sendButtonDoc(m.chat, str, wm,'Sewa Bot','.sewa', m, { contextInfo: { exter
     mediaUrl: "https://Instagram.com/Dmssrdn",
     mediaType: "VIDEO",
     description: "https://www.instagram.com/p/CevoCg5hG-p/?utm_source=ig_web_copy_link", 
-    title: 'Kenzo-Botz MultiDevice',
+    title: 'Leon-Botz MultiDevice',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sig
