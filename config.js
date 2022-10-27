@@ -53,7 +53,7 @@ global.sig = 'http://instagram.com/leon_ofc202' // ig
 global.sgh = 'http://github.com/LeonOfc202' // github
 global.sgc = 'https://chat.whatsapp.com/J4gNWQAtkEP3aOBCQInROH' // group whatsapp
 global.sdc = '-'//discord
-global.snh = '- my youtube channel
+global.snh = '-' //my youtube channel
 global.sfb = '-' // facebook
 global.syt = '-' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
