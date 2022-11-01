@@ -49,8 +49,8 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'http://instagram.com/leon_ofc202' // ig
-global.sgh = 'http://github.com/LeonOfc202' // github
+global.sig = '-' // ig
+global.sgh = '-' // github
 global.sgc = 'https://chat.whatsapp.com/J4gNWQAtkEP3aOBCQInROH' // group whatsapp
 global.sdc = '-'//discord
 global.snh = '-' //my youtube channel
@@ -68,8 +68,8 @@ global.psaweria = '-'
 
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287760550924'
-global.nomorown = '6287760550924'
+global.nomorbot = '6282352388311'
+global.nomorown = '6282352388311'
 global.namebot = 'Nana-Botz'
 global.nameown = 'Leon'
 
@@ -85,7 +85,7 @@ global . lolkey  =  'e54205a4ca2caa368cc067bb'  // PUNYA WAHID 8e66d0934cf741bfd
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287760550924', 'Leon', true],
+  ['6282352388311', 'owner ku', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Nana-Botz 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘NANA-BOTZ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ NANA-Botz '
+global.wm = '                「 Rill 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Rill˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Rill-Botz '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By leon`
+global.titlebot = `⫹⫺ WhatsApp Bot | By Rill`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 Leon-Botz 」'
+global.author = '                「 Rill 」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -636,8 +636,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Nana-Botz'
-global.stickauth = `By ©Leon`
+global.stickpack = 'Rill-Botz'
+global.stickauth = `By ©Rill`
 
 global.multiplier = 38 // The higher, The harder levelup
 
