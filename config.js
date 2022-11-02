@@ -70,8 +70,8 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '6282352388311'
 global.nomorown = '6282352388311'
-global.namebot = 'Nana-Botz'
-global.nameown = 'Leon'
+global.namebot = 'Rill-Botz'
+global.nameown = 'Rill'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = '-' // nama github lu
