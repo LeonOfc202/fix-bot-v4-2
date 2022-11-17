@@ -68,10 +68,10 @@ global.psaweria = '-'
 
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282352388311'
-global.nomorown = '6282352388311'
-global.namebot = 'Rill-Botz'
-global.nameown = 'Rill'
+global.nomorbot = '6287760550924'
+global.nomorown = '6287760550924'
+global.namebot = 'Leon-Botz'
+global.nameown = 'Leon'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = '-' // nama github lu
@@ -85,7 +85,7 @@ global . lolkey  =  'e54205a4ca2caa368cc067bb'  // PUNYA WAHID 8e66d0934cf741bfd
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282352388311', 'owner ku', true],
+  ['6287760550924', 'owner ku', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Rill 」' //Main Watermark
+global.wm = '                「 NANA 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Rill˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Rill-Botz '
+global.wm3 = '⫹⫺ Nana-Botz '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By Rill`
+global.titlebot = `⫹⫺ WhatsApp Bot | By Leon`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 Rill 」'
+global.author = '                「 Leon 」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -636,8 +636,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Rill-Botz'
-global.stickauth = `By ©Rill`
+global.stickpack = 'Nana-Botz'
+global.stickauth = `By ©Leon`
 
 global.multiplier = 38 // The higher, The harder levelup
 
